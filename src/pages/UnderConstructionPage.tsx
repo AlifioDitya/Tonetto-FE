@@ -30,7 +30,7 @@ function UnderConstructionPage() {
           {/* Tagline */}
           <p className="text-base sm:text-lg md:text-xl text-center max-w-md">
             <span className="font-semibold text-[#F2F2F2]">
-              Crafted for the Quiet Confident.
+              Crafted for the Quiet Confident,
             </span>{" "}
             <br />
             Because elegance doesn't rush.
@@ -65,7 +65,7 @@ function UnderConstructionPage() {
               </a>
             </div>
 
-            <p className="text-xs sm:text-sm text-[#A0A4B8]">
+            <p className="text-xs sm:text-sm text-[#A0A4B8] mt-3">
               © {new Date().getFullYear()} Tonetto. All rights reserved.
             </p>
           </div>
