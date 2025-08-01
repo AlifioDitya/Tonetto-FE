@@ -32,6 +32,7 @@ function UnderConstructionPage() {
             <span className="font-semibold text-[#F2F2F2]">
               Crafted for the Quiet Confident.
             </span>{" "}
+            <br />
             Because elegance doesn't rush.
           </p>
 
