@@ -30,7 +30,7 @@ function UnderConstructionPage() {
           {/* Tagline */}
           <p className="text-base sm:text-lg md:text-xl text-center max-w-md">
             <span className="font-semibold text-[#F2F2F2]">
-              Crafted for the Quiet Confident,
+              Crafted for the Modern Ones,
             </span>{" "}
             <br />
             Because elegance doesn't rush.
